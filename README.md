@@ -35,11 +35,3 @@
 </div>
 
 <br>
-
-<div align="left">
-  <h2 align="left" style="border-bottom: 1px solid gray">License</h2>
-
-  <p align="left">
-    <a href="https://choosealicense.com/licenses/mit/">Licensed under MIT</a>
-  </p>
-</div>
